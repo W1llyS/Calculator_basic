@@ -1,0 +1,23 @@
+[8/6/2023 5:10:47 PM] Nelze dělit nulou
+[8/6/2023 5:11:46 PM] Nelze dělit nulou
+[8/6/2023 5:11:47 PM] Nelze dělit nulou
+[8/6/2023 5:11:51 PM] Input string was not in a correct format.
+[8/6/2023 5:11:52 PM] Input string was not in a correct format.
+[8/6/2023 5:11:52 PM] Input string was not in a correct format.
+[8/6/2023 5:12:15 PM] Nelze dělit nulou
+[8/6/2023 5:12:21 PM] Input string was not in a correct format.
+[8/6/2023 5:12:21 PM] Input string was not in a correct format.
+[8/6/2023 5:12:21 PM] Input string was not in a correct format.
+[8/6/2023 5:12:25 PM] Nelze dělit nulou
+[8/6/2023 5:12:26 PM] Nelze dělit nulou
+[8/6/2023 7:34:00 PM] Nelze dělit nulou
+[8/6/2023 7:34:07 PM] Nelze dělit nulou
+[8/6/2023 7:34:10 PM] Input string was not in a correct format.
+[8/6/2023 7:34:11 PM] Input string was not in a correct format.
+[8/6/2023 8:25:37 PM] Input string was not in a correct format.
+[8/6/2023 8:29:09 PM] Nelze dělit nulou
+[8/6/2023 10:46:07 PM] Nelze dělit nulou
+[8/6/2023 11:34:48 PM] Nelze dělit nulou
+[8/6/2023 11:35:00 PM] Input string was not in a correct format.
+[8/6/2023 11:58:30 PM] Nelze dělit nulou
+[8/6/2023 11:58:35 PM] Input string was not in a correct format.
