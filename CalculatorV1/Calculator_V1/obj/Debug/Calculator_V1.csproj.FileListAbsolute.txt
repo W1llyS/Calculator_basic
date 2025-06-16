@@ -449,3 +449,6 @@ C:\Users\l\Desktop\Calculator-V1\CalculatorV1\Calculator_V1\bin\System.Runtime.C
 C:\Users\l\Desktop\Calculator-V1\CalculatorV1\Calculator_V1\bin\System.Threading.Channels.xml
 C:\Users\l\Desktop\Calculator-V1\CalculatorV1\Calculator_V1\bin\System.Threading.Tasks.Extensions.xml
 C:\Users\l\Desktop\Calculator-V1\CalculatorV1\Calculator_V1\bin\System.ValueTuple.xml
+C:\Users\l\Desktop\Calculator-V1\CalculatorV1\Calculator_V1\bin\Castle.Core.dll
+C:\Users\l\Desktop\Calculator-V1\CalculatorV1\Calculator_V1\bin\Moq.dll
+C:\Users\l\Desktop\Calculator-V1\CalculatorV1\Calculator_V1\bin\Castle.Core.xml
