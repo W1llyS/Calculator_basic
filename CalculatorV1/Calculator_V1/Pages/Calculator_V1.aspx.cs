@@ -44,7 +44,7 @@ namespace Calculator_V1
             catch (Exception ex)
             {
                 // display and log
-                TextBoxResult.Text = $"Chyba: {ex.Message}\r\n";
+                TextBoxResult.Text = $"Error: {ex.Message}\r\n";
                // Logger.Log(ex.Message);
             }
         }
@@ -56,8 +56,8 @@ namespace Calculator_V1
         {
             if (TextBox2.Text == "0")
             {
-                TextBoxResult.Text = "Chyba: Nelze dělit nulou\r\n";
-                //Logger.Log("Divide by zero attempt");
+                TextBoxResult.Text = "Error: Cannot divide by zero.\r\n";
+               
             }
             else
             {
