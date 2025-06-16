@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\l\\Desktop\\Git Calculator V1\\CalculatorV1\\TestCalculator_V1\\TestCalculator_V1.csproj": {}
+    "C:\\Users\\l\\Desktop\\Calculator-V1\\CalculatorV1\\TestCalculator_V1\\TestCalculator_V1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\l\\Desktop\\Git Calculator V1\\CalculatorV1\\TestCalculator_V1\\TestCalculator_V1.csproj": {
+    "C:\\Users\\l\\Desktop\\Calculator-V1\\CalculatorV1\\TestCalculator_V1\\TestCalculator_V1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\l\\Desktop\\Git Calculator V1\\CalculatorV1\\TestCalculator_V1\\TestCalculator_V1.csproj",
+        "projectUniqueName": "C:\\Users\\l\\Desktop\\Calculator-V1\\CalculatorV1\\TestCalculator_V1\\TestCalculator_V1.csproj",
         "projectName": "TestCalculator_V1",
-        "projectPath": "C:\\Users\\l\\Desktop\\Git Calculator V1\\CalculatorV1\\TestCalculator_V1\\TestCalculator_V1.csproj",
+        "projectPath": "C:\\Users\\l\\Desktop\\Calculator-V1\\CalculatorV1\\TestCalculator_V1\\TestCalculator_V1.csproj",
         "packagesPath": "C:\\Users\\l\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\l\\Desktop\\Git Calculator V1\\CalculatorV1\\TestCalculator_V1\\obj\\",
+        "outputPath": "C:\\Users\\l\\Desktop\\Calculator-V1\\CalculatorV1\\TestCalculator_V1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,12 +43,17 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.66, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.5.0, )"
@@ -65,6 +69,18 @@
             "NUnit3TestAdapter": {
               "target": "Package",
               "version": "[4.4.2, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Serilog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             },
             "coverlet.collector": {
               "target": "Package",
@@ -82,12 +98,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

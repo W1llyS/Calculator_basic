@@ -1,0 +1,33 @@
+# Visual Studio cache a uživatelská nastavení
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Binární a mezisoubory
+bin/
+obj/
+Debug/
+Release/
+
+# Paketový management
+*.nupkg
+packages/
+*.snupkg
+
+# Rider
+.idea/
+
+# Další generované soubory
+*.log
+*.vsix
+*.cache
+
+# Pokud používáš SQLite nebo jiné databáze v projektu:
+*.db
+*.mdf
+
+# Pokud máš Tools nebo EditorConfig
+*.DotSettings.user
