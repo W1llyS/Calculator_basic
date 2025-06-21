@@ -32,7 +32,7 @@
 * **Data Access**: Dapper
 * **Logging**: Serilog
 * **Unit Testing**: MSTest, Moq
-* **Database**: SQL Server hosted on somee.com
+* **Database**: SQL Server
 * **IDE**: Visual Studio 2022
 
 ---
