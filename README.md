@@ -1,6 +1,6 @@
-# Basic_calculator
+# Calculator_basic
 
-**Basic_calculator** is a mobile-first ASP.NET WebForms application that performs basic arithmetic operations (addition, subtraction, multiplication, division) with optional rounding to whole numbers. It maintains a history of calculations in a SQL database hosted on somee.com.
+**Calculator_basic** is a mobile-first ASP.NET WebForms application that performs basic arithmetic operations (addition, subtraction, multiplication, division) with optional rounding to whole numbers. It maintains a history of calculations in a SQL database hosted on somee.com.
 
 ---
 
