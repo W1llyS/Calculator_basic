@@ -1,6 +1,9 @@
 # Calculator_basic
 
-**Calculator_basic** is a mobile-first ASP.NET WebForms application that performs basic arithmetic operations (addition, subtraction, multiplication, division) with optional rounding to whole numbers. It maintains a history of calculations in a SQL database. 
+**Basic calculator** is a mobile-first ASP.NET WebForms application with a clean, intuitive UI for basic arithmetic (`+`, `-`, `*`, `/`), optional whole-number rounding, and a scrollable history of your last 10 calculations.
+
+🚀 **Available at:** https://afsddafs.bsite.net/
+
 
 ---
 
@@ -19,8 +22,14 @@
 
 ## Interface Preview
 
+**Desktop View**  
 <p align="center">
   <img src="https://github.com/user-attachments/assets/425060f3-8976-4a68-9d88-f8f5b639ae78" />
+</p>
+
+**Mobile View** 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/76f51c62-15b6-4302-9b7d-5575baca498a" alt="Options Screen" width="400" />
 </p>
 
 ---
@@ -67,4 +76,5 @@ The application handles common errors gracefully and informs the user without cr
 * Migrate UI to ASP.NET MVC or Blazor
 * Refactor logging (Serilog)
 * Dark mode
+* Mobile app
 
