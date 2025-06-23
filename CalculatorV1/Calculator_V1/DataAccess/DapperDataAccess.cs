@@ -12,7 +12,7 @@ namespace Calculator_V1.DataAccess
     {
         private readonly string _cs =
             ConfigurationManager
-                .ConnectionStrings["SachyDb"]
+                .ConnectionStrings["Calculator"]
                 .ConnectionString;
 
         public IEnumerable<Calculation> LoadHistory(int top)
