@@ -24,12 +24,12 @@
 
 **Desktop View**  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/425060f3-8976-4a68-9d88-f8f5b639ae78" />
+  <img src="images/456005721-425060f3-8976-4a68-9d88-f8f5b639ae78.png" alt="Desktop Calculator" width="800" />
 </p>
 
-**Mobile View** 
+**Mobile View**  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/76f51c62-15b6-4302-9b7d-5575baca498a" alt="Options Screen" width="400" />
+  <img src="images/458006143-76f51c62-15b6-4302-9b7d-5575baca498a.jpg" alt="Mobile Calculator" width="400" />
 </p>
 
 ---
@@ -64,8 +64,8 @@ The application handles common errors gracefully and informs the user without cr
 - **Invalid input (e.g., text instead of number)** results in a friendly error display.
 
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/2b2f4b19-5923-482e-8b13-0330df149a7f" alt="Divide by Zero" height="400" />
-  <img src="https://github.com/user-attachments/assets/7a4d0673-a186-4a96-8995-9c7b62fadc27" alt="Invalid Input" height="400" />
+  <img src="images/456014802-2b2f4b19-5923-482e-8b13-0330df149a7f.png" alt="Divide by Zero" height="400" />
+  <img src="images/456014787-7a4d0673-a186-4a96-8995-9c7b62fadc27.png" alt="Invalid Input" height="400" />
 </p>
 
 
