@@ -1,6 +1,6 @@
 # Calculator_basic
 
-**Basic calculator** is a mobile-first ASP.NET WebForms application with a clean, intuitive UI for basic arithmetic (`+`, `-`, `*`, `/`), optional whole-number rounding, and a scrollable history of your last 10 calculations.
+**Basic calculator** is a mobile-first ASP.NET WebForms application with a clean, intuitive UI for basic arithmetic (`+`, `-`, `*`, `/`), optional whole-number rounding, and a scrollable history of your last 10 calculations. The application is also unit tested to ensure reliability and correctness. 
 
 🚀 **Available at:** https://afsddafs.bsite.net/
 
